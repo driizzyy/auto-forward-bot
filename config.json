@@ -1,0 +1,6 @@
+{
+  "token": "USER_TOKEN",
+  "source_channel_id": 12345678910,
+  "destination_channel_id": 12345678910,
+  "forward_self_messages": true
+}
